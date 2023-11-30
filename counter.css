@@ -23,6 +23,8 @@ body{
     justify-content: center;
     padding: 100px;
     margin: 100px;
+    text-decoration: overline;
+    color: rgb(210, 241, 241);
 }
 
 /* Styling the container class */
@@ -41,11 +43,13 @@ body{
     border-radius: 5px;
     margin: 200px;
     width: 25%;
+
 }
 
 .card-body h1{
     margin-bottom: 25px;
     font-size: 3rem;
+  
 }
 
 .card-btn button{
