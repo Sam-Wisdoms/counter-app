@@ -1,0 +1,12 @@
+*, *::after, *::before{
+    padding: 0;
+    margin: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+body{
+    background: rgb(182, 245, 202);
+}
